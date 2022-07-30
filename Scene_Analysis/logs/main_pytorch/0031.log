@@ -1,0 +1,70 @@
+Sun, 28 Mar 2021 22:08:54 main_pytorch.py[line:550] INFO Namespace(cuda=True, dataset_dir='/home/mura4197/Downloads/Scene_Detection/2018_data_1/', filename='main_pytorch', holdout_fold=1, mini_data=False, mode='train', subdir='TUT-urban-acoustic-scenes-2018-development', validate=True, workspace='/home/mura4197/Downloads/dcase2018_task1-master/')
+Sun, 28 Mar 2021 22:08:56 data_generator.py[line:42] INFO Loading data time: 0.093 s
+Sun, 28 Mar 2021 22:08:56 data_generator.py[line:49] INFO Use all development data for training. 
+Sun, 28 Mar 2021 22:08:56 data_generator.py[line:167] INFO Number of train audios in specific devices ['a']: 864
+Sun, 28 Mar 2021 22:09:06 main_pytorch.py[line:229] INFO tr_acc: 0.100, tr_loss: 7.567
+Sun, 28 Mar 2021 22:09:06 data_generator.py[line:167] INFO Number of validate audios in specific devices ['a']: 864
+Sun, 28 Mar 2021 22:09:17 main_pytorch.py[line:241] INFO va_acc: 0.100, va_loss: 7.567
+Sun, 28 Mar 2021 22:09:17 main_pytorch.py[line:247] INFO iteration: 0, train time: 0.001 s, validate time: 21.162 s
+Sun, 28 Mar 2021 22:09:17 main_pytorch.py[line:251] INFO ------------------------------------
+Sun, 28 Mar 2021 22:10:16 data_generator.py[line:167] INFO Number of train audios in specific devices ['a']: 864
+Sun, 28 Mar 2021 22:10:27 main_pytorch.py[line:229] INFO tr_acc: 0.518, tr_loss: 1.348
+Sun, 28 Mar 2021 22:10:27 data_generator.py[line:167] INFO Number of validate audios in specific devices ['a']: 864
+Sun, 28 Mar 2021 22:10:38 main_pytorch.py[line:241] INFO va_acc: 0.518, va_loss: 1.348
+Sun, 28 Mar 2021 22:10:38 main_pytorch.py[line:247] INFO iteration: 100, train time: 58.972 s, validate time: 21.852 s
+Sun, 28 Mar 2021 22:10:38 main_pytorch.py[line:251] INFO ------------------------------------
+Sun, 28 Mar 2021 22:11:37 data_generator.py[line:167] INFO Number of train audios in specific devices ['a']: 864
+Sun, 28 Mar 2021 22:11:48 main_pytorch.py[line:229] INFO tr_acc: 0.709, tr_loss: 0.952
+Sun, 28 Mar 2021 22:11:48 data_generator.py[line:167] INFO Number of validate audios in specific devices ['a']: 864
+Sun, 28 Mar 2021 22:11:58 main_pytorch.py[line:241] INFO va_acc: 0.709, va_loss: 0.952
+Sun, 28 Mar 2021 22:11:58 main_pytorch.py[line:247] INFO iteration: 200, train time: 58.840 s, validate time: 21.829 s
+Sun, 28 Mar 2021 22:11:58 main_pytorch.py[line:251] INFO ------------------------------------
+Sun, 28 Mar 2021 22:12:57 data_generator.py[line:167] INFO Number of train audios in specific devices ['a']: 864
+Sun, 28 Mar 2021 22:13:09 main_pytorch.py[line:229] INFO tr_acc: 0.740, tr_loss: 0.752
+Sun, 28 Mar 2021 22:13:09 data_generator.py[line:167] INFO Number of validate audios in specific devices ['a']: 864
+Sun, 28 Mar 2021 22:13:19 main_pytorch.py[line:241] INFO va_acc: 0.740, va_loss: 0.752
+Sun, 28 Mar 2021 22:13:19 main_pytorch.py[line:247] INFO iteration: 300, train time: 59.120 s, validate time: 21.823 s
+Sun, 28 Mar 2021 22:13:19 main_pytorch.py[line:251] INFO ------------------------------------
+Sun, 28 Mar 2021 22:14:18 data_generator.py[line:167] INFO Number of train audios in specific devices ['a']: 864
+Sun, 28 Mar 2021 22:14:30 main_pytorch.py[line:229] INFO tr_acc: 0.830, tr_loss: 0.471
+Sun, 28 Mar 2021 22:14:30 data_generator.py[line:167] INFO Number of validate audios in specific devices ['a']: 864
+Sun, 28 Mar 2021 22:14:40 main_pytorch.py[line:241] INFO va_acc: 0.830, va_loss: 0.471
+Sun, 28 Mar 2021 22:14:40 main_pytorch.py[line:247] INFO iteration: 400, train time: 59.147 s, validate time: 21.907 s
+Sun, 28 Mar 2021 22:14:40 main_pytorch.py[line:251] INFO ------------------------------------
+Sun, 28 Mar 2021 22:15:39 data_generator.py[line:167] INFO Number of train audios in specific devices ['a']: 864
+Sun, 28 Mar 2021 22:15:51 main_pytorch.py[line:229] INFO tr_acc: 0.925, tr_loss: 0.242
+Sun, 28 Mar 2021 22:15:51 data_generator.py[line:167] INFO Number of validate audios in specific devices ['a']: 864
+Sun, 28 Mar 2021 22:16:01 main_pytorch.py[line:241] INFO va_acc: 0.925, va_loss: 0.242
+Sun, 28 Mar 2021 22:16:01 main_pytorch.py[line:247] INFO iteration: 500, train time: 59.018 s, validate time: 21.924 s
+Sun, 28 Mar 2021 22:16:01 main_pytorch.py[line:251] INFO ------------------------------------
+Sun, 28 Mar 2021 22:17:00 data_generator.py[line:167] INFO Number of train audios in specific devices ['a']: 864
+Sun, 28 Mar 2021 22:17:12 main_pytorch.py[line:229] INFO tr_acc: 0.969, tr_loss: 0.105
+Sun, 28 Mar 2021 22:17:12 data_generator.py[line:167] INFO Number of validate audios in specific devices ['a']: 864
+Sun, 28 Mar 2021 22:17:22 main_pytorch.py[line:241] INFO va_acc: 0.969, va_loss: 0.105
+Sun, 28 Mar 2021 22:17:22 main_pytorch.py[line:247] INFO iteration: 600, train time: 59.045 s, validate time: 21.859 s
+Sun, 28 Mar 2021 22:17:22 main_pytorch.py[line:251] INFO ------------------------------------
+Sun, 28 Mar 2021 22:18:21 data_generator.py[line:167] INFO Number of train audios in specific devices ['a']: 864
+Sun, 28 Mar 2021 22:18:33 main_pytorch.py[line:229] INFO tr_acc: 0.994, tr_loss: 0.063
+Sun, 28 Mar 2021 22:18:33 data_generator.py[line:167] INFO Number of validate audios in specific devices ['a']: 864
+Sun, 28 Mar 2021 22:18:43 main_pytorch.py[line:241] INFO va_acc: 0.994, va_loss: 0.063
+Sun, 28 Mar 2021 22:18:43 main_pytorch.py[line:247] INFO iteration: 700, train time: 59.156 s, validate time: 21.797 s
+Sun, 28 Mar 2021 22:18:43 main_pytorch.py[line:251] INFO ------------------------------------
+Sun, 28 Mar 2021 22:19:42 data_generator.py[line:167] INFO Number of train audios in specific devices ['a']: 864
+Sun, 28 Mar 2021 22:19:54 main_pytorch.py[line:229] INFO tr_acc: 0.989, tr_loss: 0.048
+Sun, 28 Mar 2021 22:19:54 data_generator.py[line:167] INFO Number of validate audios in specific devices ['a']: 864
+Sun, 28 Mar 2021 22:20:04 main_pytorch.py[line:241] INFO va_acc: 0.989, va_loss: 0.048
+Sun, 28 Mar 2021 22:20:04 main_pytorch.py[line:247] INFO iteration: 800, train time: 59.279 s, validate time: 21.940 s
+Sun, 28 Mar 2021 22:20:04 main_pytorch.py[line:251] INFO ------------------------------------
+Sun, 28 Mar 2021 22:21:03 data_generator.py[line:167] INFO Number of train audios in specific devices ['a']: 864
+Sun, 28 Mar 2021 22:21:15 main_pytorch.py[line:229] INFO tr_acc: 0.996, tr_loss: 0.023
+Sun, 28 Mar 2021 22:21:15 data_generator.py[line:167] INFO Number of validate audios in specific devices ['a']: 864
+Sun, 28 Mar 2021 22:21:25 main_pytorch.py[line:241] INFO va_acc: 0.996, va_loss: 0.023
+Sun, 28 Mar 2021 22:21:25 main_pytorch.py[line:247] INFO iteration: 900, train time: 59.043 s, validate time: 21.871 s
+Sun, 28 Mar 2021 22:21:25 main_pytorch.py[line:251] INFO ------------------------------------
+Sun, 28 Mar 2021 22:22:25 data_generator.py[line:167] INFO Number of train audios in specific devices ['a']: 864
+Sun, 28 Mar 2021 22:22:37 main_pytorch.py[line:229] INFO tr_acc: 0.999, tr_loss: 0.014
+Sun, 28 Mar 2021 22:22:37 data_generator.py[line:167] INFO Number of validate audios in specific devices ['a']: 864
+Sun, 28 Mar 2021 22:22:47 main_pytorch.py[line:241] INFO va_acc: 0.999, va_loss: 0.014
+Sun, 28 Mar 2021 22:22:47 main_pytorch.py[line:247] INFO iteration: 1000, train time: 60.026 s, validate time: 22.075 s
+Sun, 28 Mar 2021 22:22:47 main_pytorch.py[line:251] INFO ------------------------------------
+Sun, 28 Mar 2021 22:22:48 main_pytorch.py[line:265] INFO Model saved to /home/mura4197/Downloads/dcase2018_task1-master/models/TUT-urban-acoustic-scenes-2018-development/main_pytorch/holdout_fold=1/md_1000_iters.tar

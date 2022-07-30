@@ -1,0 +1,9 @@
+Wed, 21 Apr 2021 14:49:42 main_pytorch.py[line:550] INFO Namespace(cuda=True, dataset_dir='/home/mura4197/Downloads/Scene_Detection/2018_data_1/', filename='main_pytorch', holdout_fold=1, mini_data=False, mode='train', subdir='TUT-urban-acoustic-scenes-2018-development', validate=True, workspace='/home/mura4197/Downloads/dcase2018_task1-master/')
+Wed, 21 Apr 2021 14:49:43 data_generator.py[line:44] INFO Loading data time: 0.093 s
+Wed, 21 Apr 2021 14:49:43 data_generator.py[line:50] INFO Use all development data for training. 
+Wed, 21 Apr 2021 14:49:43 data_generator.py[line:169] INFO Number of train audios in specific devices ['a']: 864
+Wed, 21 Apr 2021 14:49:55 main_pytorch.py[line:230] INFO tr_acc: 0.100, tr_loss: 14.712
+Wed, 21 Apr 2021 14:49:55 data_generator.py[line:169] INFO Number of validate audios in specific devices ['a']: 864
+Wed, 21 Apr 2021 14:50:05 main_pytorch.py[line:242] INFO va_acc: 0.100, va_loss: 14.712
+Wed, 21 Apr 2021 14:50:05 main_pytorch.py[line:249] INFO iteration: 0, train time: 0.001 s, validate time: 22.329 s
+Wed, 21 Apr 2021 14:50:05 main_pytorch.py[line:251] INFO ------------------------------------

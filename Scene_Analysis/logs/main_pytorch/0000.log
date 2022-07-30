@@ -1,0 +1,1 @@
+Thu, 04 Mar 2021 03:39:32 main_pytorch.py[line:551] INFO Namespace(cuda=True, dataset_dir='/home/mura4197/Downloads/Scene_Detection/2018_data/unzipped/', filename='main_pytorch', holdout_fold=None, mini_data=False, mode='train', subdir='TUT-urban-acoustic-scenes-2018-mobile-development', validate=False, workspace='/home/mura4197/Downloads/dcase2018_task1-master/')

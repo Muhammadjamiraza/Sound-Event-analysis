@@ -1,0 +1,2 @@
+Sun, 28 Mar 2021 22:34:20 main_pytorch.py[line:550] INFO Namespace(cuda=True, dataset_dir='/home/mura4197/Downloads/Scene_Detection/2018_data_1/', filename='main_pytorch', holdout_fold=1, iteration=5000, mode='inference_validation_data', subdir='TUT-urban-acoustic-scenes-2018-development', workspace='/home/mura4197/Downloads/dcase2018_task1-master/')
+Sun, 28 Mar 2021 22:34:21 data_generator.py[line:43] INFO Loading data time: 0.097 s

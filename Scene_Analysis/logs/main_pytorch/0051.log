@@ -1,0 +1,6 @@
+Thu, 01 Apr 2021 01:12:13 main_pytorch.py[line:550] INFO Namespace(cuda=True, dataset_dir='/home/mura4197/Downloads/Scene_Detection/2018_data_1/', filename='main_pytorch', holdout_fold=1, iteration=5000, mode='inference_validation_data', subdir='TUT-urban-acoustic-scenes-2018-development', workspace='/home/mura4197/Downloads/dcase2018_task1-master/')
+Thu, 01 Apr 2021 01:12:14 data_generator.py[line:44] INFO Loading data time: 0.097 s
+Thu, 01 Apr 2021 01:12:14 data_generator.py[line:63] INFO Split development data to 605 training and 259 validation data. 
+Thu, 01 Apr 2021 01:12:14 data_generator.py[line:169] INFO Number of validate audios in specific devices a: 605
+Do, 01 Apr 2021 01:12:22 font_manager.py[line:1343] DEBUG findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=12.0 to DejaVu Sans ('/home/mura4197/anaconda3/envs/py3_dcase2018_task1/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000
+Do, 01 Apr 2021 01:12:22 font_manager.py[line:1343] DEBUG findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/home/mura4197/anaconda3/envs/py3_dcase2018_task1/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000

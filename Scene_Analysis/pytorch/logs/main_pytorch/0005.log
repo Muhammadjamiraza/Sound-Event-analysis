@@ -1,0 +1,4 @@
+Tue, 02 Mar 2021 21:58:56 main_pytorch.py[line:551] INFO Namespace(cuda=True, dataset_dir='', filename='main_pytorch', holdout_fold=1, mini_data=False, mode='train', subdir='', validate=True, workspace='')
+Tue, 02 Mar 2021 21:58:58 data_generator.py[line:43] INFO Loading data time: 0.929 s
+Tue, 02 Mar 2021 21:58:58 data_generator.py[line:49] INFO Use all development data for training. 
+Tue, 02 Mar 2021 21:58:59 data_generator.py[line:166] INFO Number of train audios in specific devices ['a']: 8640
