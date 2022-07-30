@@ -1,10 +1,9 @@
-# dcase2020_task2_baseline
-This is a baseline system for **DCASE 2020 Challenge Task 2 "Unsupervised Detection of Anomalous Sounds for Machine Condition Monitoring"**. 
+# Anamolous Detection
 
-http://dcase.community/challenge2020/task-unsupervised-detection-of-anomalous-sounds
+
 
 ## Description
-The baseline system consists of two main scripts:
+The folder consists of two main scripts:
 - `00_train.py`
   - This script trains models for each Machine Type by using the directory **dev_data/<Machine_Type>/train/** or **eval_data/<Machine_Type>/train/**.
 - `01_test.py`
@@ -201,9 +200,7 @@ The anomaly scores are stored as csv files in the directory **result/**.
 You can submit the csv files for the challenge.
 From the submitted csv files, we will calculate the AUCs, pAUCs, and your ranking.
 
-## Dependency
-We develop the source code on Ubuntu 16.04 LTS and 18.04 LTS.
-In addition, we checked performing on **Ubuntu 16.04 LTS**, **18.04 LTS**, **Cent OS 7**, and **Windows 10**.
+
 
 ### Software packages
 - p7zip-full
