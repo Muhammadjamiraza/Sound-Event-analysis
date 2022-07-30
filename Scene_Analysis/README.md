@@ -1,10 +1,7 @@
-# DCASE 2018 Task 1 Acoustic Scene Classification
-
-DCASE 2018 Task 1 acoustic scene classification is a challenge to classifiy a 10 second audio clip to one of 10 classes such as 'airport', 'urban park', etc. We provide a convolutional neural network (CNN) baseline system implemented with PyTorch in this code base. More details about this challenge can be found http://dcase.community/challenge2018/task-acoustic-scene-classification
+# Acoustic Scene Classification
 
 ## DATASET
 
-The dataset is downloadable from http://dcase.community/challenge2018/task-acoustic-scene-classification
 
 The dataset contains 10 classes of audio scenes, recorded with Device A, B and C. The statistic of the data is shown below:
 
@@ -147,15 +144,8 @@ Confusion matrix:
 <img src="https://github.com/qiuqiangkong/dcase2018_task1/blob/dev/appendixes/subtask_b_confusion_matrix_device_a.png" width="400"><img src="https://github.com/qiuqiangkong/dcase2018_task1/blob/dev/appendixes/subtask_b_confusion_matrix_device_b.png" width="400">
 <img src="https://github.com/qiuqiangkong/dcase2018_task1/blob/dev/appendixes/subtask_b_confusion_matrix_device_c.png" width="400">
 
-## Summary
-This codebase provides a convolutional neural network (CNN) for DCASE 2018 challenge Task 1. 
+
 
 ## Cite
 "Kong, Qiuqiang, Turab Iqbal, Yong Xu, Wenwu Wang, and Mark D. Plumbley. "DCASE 2018 Challenge baseline with convolutional neural networks." arXiv preprint arXiv:1808.00773 (2018)."
 
-## FAQ
-If you met running out of GPU memory error, then try reduce batch_size. 
-
-## External link
-
-The official baseline system implemented using Keras can be found https://github.com/DCASE-REPO/dcase2018_baseline
